@@ -1,0 +1,26 @@
+User_ID,Login_Time,Login_Duration_Min,Device_Type,Location,Failed_Logins,Is_Suspicious
+U001,00:22,2,Mobile,Russia,3,1
+U002,19:18,12,Desktop,Germany,0,0
+U003,10:02,4,Tablet,Unknown,2,1
+U004,02:59,10,Desktop,Russia,3,1
+U005,21:03,27,Tablet,India,2,0
+U006,01:37,7,Desktop,Unknown,5,1
+U007,15:53,18,Mobile,Chicago,0,0
+U008,13:40,22,Mobile,New York,1,0
+U009,05:45,6,Tablet,Unknown,3,1
+U010,22:33,13,Desktop,Russia,0,1
+U011,04:10,8,Desktop,London,4,1
+U012,11:25,20,Mobile,New York,0,0
+U013,03:30,3,Tablet,Chicago,0,1
+U014,16:49,25,Desktop,India,1,0
+U015,18:56,10,Mobile,Germany,0,0
+U016,23:20,5,Desktop,Russia,4,1
+U017,12:14,14,Tablet,London,2,0
+U018,00:50,9,Mobile,Unknown,3,1
+U019,14:02,16,Desktop,Chicago,1,0
+U020,06:00,7,Tablet,India,0,0
+U021,03:15,2,Mobile,Russia,5,1
+U022,09:45,11,Desktop,New York,0,0
+U023,20:30,19,Tablet,London,1,0
+U024,02:20,8,Mobile,Unknown,3,1
+U025,17:05,12,Desktop,Germany,0,0
